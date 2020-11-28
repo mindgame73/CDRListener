@@ -1,0 +1,8 @@
+/target/
+*.iws
+*.iml
+*.ipr
+*.xls
+*.csv
+/out/
+.idea/
